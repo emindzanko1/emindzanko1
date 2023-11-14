@@ -1,6 +1,4 @@
-<a href="https://github.com/emindzanko1">
-  <img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" alt="MasterHead" width="1800px" height="350px">
-</a>
+[![MasterHead](https://github.com/emindzanko1/emindzanko1/blob/main/github.jpg?raw=true)](https://github.com/emindzanko1)
 <h1 align="center">Hi 👋, I'm Emin Džanko</h1>
 <h3 align="center">A passionate full-stack developer from Sarajevo</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg0cXg1ZHhqZTF5NHp3eWNjMnBkMzB4b2l3aDQ5OG1yd24zaDNoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
