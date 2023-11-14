@@ -1,5 +1,5 @@
 <a href="https://github.com/emindzanko1">
-  <img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" alt="MasterHead" width="2000" height="500">
+  <img src="https://www.patterns.dev/img/reactjs/react-logo@3x.svg" alt="MasterHead" width="1800px" height="350px">
 </a>
 <h1 align="center">Hi 👋, I'm Emin Džanko</h1>
 <h3 align="center">A passionate full-stack developer from Sarajevo</h3>
